@@ -2,6 +2,8 @@
 
 Ce script permet de scrapper des personnes sur Linkedin en fonction de leur post dans une entreprise
 
+Ce script estfait pour fonctionner avec Firefox seulement pour le moment
+
 ## Prérequis
 
 - Python 3.10+
